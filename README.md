@@ -28,5 +28,5 @@ Here's a look into my skills and projects.
 ---
 
 ## 🚀 My Favorite Project Repos
-[![Let's Agree](https://img.shields.io/badge/Repo-Let's%20Agree-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaquinBustos3/Let-sAgree) - A free site meant to help 2 users come to an agreement on everyday issues (i.e. picking a restaurant, movie, etc)  
-[![Bluemel Project](https://img.shields.io/badge/Repo-Bluemel%20(Client%20Project)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaquinBustos3/Bluemel-Project) - Web app for local client providing inventory management, employee administration, and a request system to expedite daily operations
+[![Let's Agree](https://img.shields.io/badge/Repo-Let's%20Agree-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaquinBustos3/Let-sAgree) - A free site meant to help 2 users come to an agreement on everyday issues, like picking a movie. (https://let-sagree.onrender.com/)   
+[![Bluemel Project](https://img.shields.io/badge/Repo-Bluemel%20(Client%20Project)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaquinBustos3/Bluemel-Project) - Web app for local client providing inventory management, employee administration, and a request system to expedite daily operations. (https://youtu.be/FDqKMoc-044?si=95TQGleiZs9_ouBK)
